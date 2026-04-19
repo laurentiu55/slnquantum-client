@@ -1,11 +1,11 @@
 [package]
-name = "rustdesk"
+name = "slnquantum"
 version = "1.4.6"
-authors = ["rustdesk <info@rustdesk.com>"]
+authors = ["SLN Quantum <support@slnquantum.com>"]
 edition = "2021"
 build= "build.rs"
-description = "RustDesk Remote Desktop"
-default-run = "rustdesk"
+description = "SLN Quantum Support"
+default-run = "slnquantum"
 rust-version = "1.75"
 
 [lib]
